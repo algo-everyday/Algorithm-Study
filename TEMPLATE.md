@@ -1,15 +1,12 @@
 ## 문제 출처
 
-<a href="https://www.acmicpc.net/problem/2557" rel="nofollow">2557 Hello World</a>
+<a href="https://www.acmicpc.net/problem/6603" rel="nofollow">6003 로또</a>
 
 ## 🔍 풀이
-
-~ 알고리즘을 사용하여 풀었습니다.
+1. 브루트 포스
+2. 백트래킹(순열)
 
 ## ✏️ 추가 지식
 
-~ 를 새롭게 알게 되었습니다.
-
 ## 😊 후기
-
-~ 를 깨닫게 되었고, 다음부터는 ~ 해야겠습니다.
+- 시작복잡도에 대한 고민 후 문제를 풀면 좋을 것 같습니다
