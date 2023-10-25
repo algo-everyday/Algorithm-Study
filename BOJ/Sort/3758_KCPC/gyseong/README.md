@@ -1,6 +1,6 @@
 ## 문제 출처
 
-<a href="https://www.acmicpc.net/problem/3758" rel="nofollow">6003 로또</a>
+<a href="https://www.acmicpc.net/problem/3758" rel="nofollow">3758 KCPC</a>
 
 ## 🔍 풀이
 1. 브루트 포스
